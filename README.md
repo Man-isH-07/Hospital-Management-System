@@ -1,4 +1,7 @@
 # **HOSPITAL MANAGEMENT SYSTEM**
+![map](https://github.com/Man-isH-07/Hospital-Management-System/assets/123257549/c247a598-5214-4bd6-80a2-25ef9c77c029)![map](https://github.com/Man-isH-07/Hospital-Management-System/assets/123257549/93168ba9-caf7-4223-bd0e-c6c25d065f1f)
+
+
 ## A PROJECT REPORT ON 
 >HOSPITAL MANAGEMENT SYSTEM
  
